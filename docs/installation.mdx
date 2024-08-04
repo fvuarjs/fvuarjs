@@ -1,0 +1,61 @@
+---
+sidebar_position: 2
+---
+
+import React from "react";
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Installation
+
+:::danger[Early Access]
+
+This documentation is currently in early access, information and features may change.
+
+:::
+
+To download Fvuarjs, you can choose the package manager or cdn suitable for your project.
+
+## Install with package managers
+
+Fvuarjs is fast, so its installation is just as fast. and it is easily realized.
+Choose the package manager you like and copy the code and run it in the terminal of your project directory.
+
+<Tabs queryString="via">
+    <TabItem value="npm" label="npm" default>
+        ```bash title="terminal"
+        npm i fvuarjs@latest
+        ```
+    </TabItem>
+    <TabItem value="yarn" label="yarn">
+        ```bash title="terminal"
+        yarn add fvuarjs@latest
+        ```
+    </TabItem>
+    <TabItem value="pnpm" label="pnpm">
+        ```bash title="terminal"
+        pnpm i fvuarjs@latest
+        ```
+    </TabItem>
+</Tabs>
+
+## Install with CDN
+
+If you want to include it in your project via cdn, fvuarjs is proud to offer you this option.
+Place this html script tag at the end of your website's body tag.
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/fvuarjs@latest/module/fvuar.min.js"></script>
+```
+
+It should appear like this in your site file.
+```html title="your-html-file.html"
+<html>
+    <!-- ... -->
+    <body>
+        <!-- ... -->
+        <!-- highlight-next-line -->
+        <script src="https://cdn.jsdelivr.net/npm/fvuarjs@latest/module/fvuar.min.js"></script>
+    </body>
+</html>
+```
