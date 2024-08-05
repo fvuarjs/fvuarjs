@@ -26,7 +26,11 @@ npm install fvuarjs@latest
 ### CDN
 
 #### Copy this script and paste your html file.
-```javascript
+```html
+<!-- add in head tag -->
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fvuarjs@0.0.5/styles/fvuar.min.css" />
+
+<!-- add in body tag -->
 <script src="https://cdn.jsdelivr.net/npm/fvuarjs@0.0.5/fvuar.min.js"></script>
 ```
 
@@ -37,9 +41,11 @@ npm install fvuarjs@latest
 ### Basic Example in React
 
 ```jsx
-import { Fvuar } from 'fvuarjs';
+import 'fvuarjs/styles/fvuar.css';
+import Fvuar from 'fvuarjs';
 
 const App = () => {
+    // optional
     Fvuar.configure({
         MAXTIME: 10
     })
