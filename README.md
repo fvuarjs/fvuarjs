@@ -1,5 +1,6 @@
-![Logo](https://cdn.jsdelivr.net/gh/fvuarjs/fvuarjs/static/img/fvuar-github-avatar.png)
-
+<p align="center">
+  <img src="static/img/fvuar-animasyon.svg" alt="fvuar" width="320">
+</p>
 # `fvuar.js`
 Create your alert messages with fvuar.js!
 
