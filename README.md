@@ -1,7 +1,7 @@
+![Logo](https://cdn.jsdelivr.net/gh/fvuarjs/fvuarjs/static/img/fvuar-github-avatar.png)
+
 # `fvuar.js`
 Create your alert messages with fvuar.js!
-
-![Logo](https://cdn.jsdelivr.net/gh/fvuarjs/fvuarjs/static/img/fvuar-github-avatar.png)
 
 <br>
 
