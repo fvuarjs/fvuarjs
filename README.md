@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/img/fvuar-animasyon.svg" alt="fvuar" width="320">
+  <img src="static/img/fvuar-animasyon.gif" alt="fvuar" width="320">
 </p>
 # `fvuar.js`
 Create your alert messages with fvuar.js!
