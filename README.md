@@ -1,7 +1,7 @@
-# `fvuarJS v0.0.5`
-Create your alert messages with fvuarJS!
+# `fvuar.js`
+Create your alert messages with fvuar.js!
 
-![Logo](https://cdn.jsdelivr.net/gh/fvuarjs/fvuarjs/static/img/logo.svg)
+![Logo](https://cdn.jsdelivr.net/gh/fvuarjs/fvuarjs/static/img/fvuar-github-avatar.png)
 
 <br>
 
